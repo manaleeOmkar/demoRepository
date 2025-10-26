@@ -1,0 +1,11 @@
+Backup started
+Backup created for the file excercise_01.sh -> excercise_01_backup_2025-10-26_14-26-45.sh
+Backup created for the file excercise_02.sh -> excercise_02_backup_2025-10-26_14-26-45.sh
+Backup created for the file excercise_03.sh -> excercise_03_backup_2025-10-26_14-26-45.sh
+Backup created for the file excercise_04.sh -> excercise_04_backup_2025-10-26_14-26-45.sh
+Backup created for the file excercise_05.sh -> excercise_05_backup_2025-10-26_14-26-45.sh
+Backup created for the file excercise_06.sh -> excercise_06_backup_2025-10-26_14-26-45.sh
+Backup created for the file excercise_07.sh -> excercise_07_backup_2025-10-26_14-26-45.sh
+Backup created for the file excercise_08.sh -> excercise_08_backup_2025-10-26_14-26-45.sh
+Backup created for the file excercise_09.sh -> excercise_09_backup_2025-10-26_14-26-45.sh
+All backup completed
